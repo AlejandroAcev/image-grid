@@ -1,0 +1,23 @@
+{
+  "common": {
+    "button": {
+      "close": "Close"
+    },
+    "error": {
+      "request": "There was a problem while the data was loading!"
+    }
+  },
+  "views" :{
+    "home": {
+      "title": "List of random images"
+    }
+  },
+  "components": {
+    "pagination": {
+      "title": "Enter a number of images per page",
+      "current-page": "Current page",
+      "limit": "Limit",
+      "load": "Load"
+    }
+  }
+}
