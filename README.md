@@ -5,6 +5,9 @@ This project is a simple example of how to load a list of images using an extern
 For this case, the frontend part is created using [React](https://reactjs.org/) and as backend we are using [Picsum](https://picsum.photos/) as image provider.
 
 You can find the project here: [repository](https://github.com/AlejandroAcev/image-grid)
+
+You can see the result here: [project result](https://image-grid-deploy-op1iyu7kyce1.herokuapp.com/)
+
 ## How to use it
 
 The main page is composed by a little form with a `Limit` field, a `Page` counter and a `Load` button.
